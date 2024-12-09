@@ -20,3 +20,12 @@
 .filters>div>select>option {
     color: black;
 }
+
+@media (max-width: 434px) {
+    .filters {
+        gap: 20px;
+        margin: 0% 10%;
+        flex-direction: column;
+        align-items: stretch;
+    }
+}
