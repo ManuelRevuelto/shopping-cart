@@ -4,8 +4,8 @@ I have put into practice many of the React hooks to make a complete application 
 Below you can see several pictures of the application:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManuelRevuelto/shopping-cart/refs/heads/main/src/images/img1.png" alt="Descripción 1" width="50%" />
-  <img src="https://raw.githubusercontent.com/ManuelRevuelto/shopping-cart/refs/heads/main/src/images/img2.png" alt="Descripción 2" width="50%" />
+  <img src="https://raw.githubusercontent.com/ManuelRevuelto/shopping-cart/refs/heads/main/src/images/img1.png" alt="Descripción 1" width="46%" />
+  <img src="https://raw.githubusercontent.com/ManuelRevuelto/shopping-cart/refs/heads/main/src/images/img2.png" alt="Descripción 2" width="48%" />
 </p>
 
 ## Run the project
